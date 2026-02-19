@@ -1,0 +1,26 @@
+<div style="width: 2711px; height: 1457px; position: relative; background: rgba(255, 255, 255, 0.05)">
+  <div style="width: 1280px; left: 64px; top: 100px; position: absolute; background: white; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E8E8E8; font-size: 120px; font-family: Archivo; font-weight: 900; word-wrap: break-word">FLYTTA HIKING</div>
+    <img style="width: 133px; height: 82px" src="https://placehold.co/133x82" />
+    <img style="width: 1240px; height: 505px; border-radius: 16px" src="https://placehold.co/1240x505" />
+    <div style="width: 175px; height: 50px; background: #496182; border-radius: 50px"></div>
+    <img style="width: 395px; height: 297px" src="https://placehold.co/395x297" />
+    <div style="justify-content: center; display: flex; flex-direction: column; color: #496182; font-size: 16px; font-family: Unbounded; font-weight: 600; word-wrap: break-word">Pants you have been waiting for.</div>
+  </div>
+  <div style="width: 800px; left: 1408px; top: 100px; position: absolute; background: white; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 130px; height: 79px" src="https://placehold.co/130x79" />
+    <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E8E8E8; font-size: 120px; font-family: Archivo; font-weight: 900; word-wrap: break-word">FLYTTA HIKING</div>
+    <img style="width: 1240px; height: 505px; border-radius: 16px" src="https://placehold.co/1240x505" />
+    <img style="width: 395px; height: 297px" src="https://placehold.co/395x297" />
+    <div style="width: 175px; height: 50px; background: #496182; border-radius: 50px"></div>
+    <div style="justify-content: center; display: flex; flex-direction: column; color: #496182; font-size: 16px; font-family: Unbounded; font-weight: 600; word-wrap: break-word">Pants you have been waiting for.</div>
+  </div>
+  <div style="width: 375px; left: 2272px; top: 100px; position: absolute; background: white; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 120px; height: 73px" src="https://placehold.co/120x73" />
+    <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E8E8E8; font-size: 120px; font-family: Archivo; font-weight: 900; word-wrap: break-word">FLYTTA HIKING</div>
+    <img style="width: 1240px; height: 505px; border-radius: 16px" src="https://placehold.co/1240x505" />
+    <img style="width: 397px; height: 297px" src="https://placehold.co/397x297" />
+    <div style="width: 175px; height: 50px; background: #496182; border-radius: 50px"></div>
+    <div style="justify-content: center; display: flex; flex-direction: column; color: #496182; font-size: 16px; font-family: Unbounded; font-weight: 600; word-wrap: break-word">Pants you have been waiting for.</div>
+  </div>
+</div>
